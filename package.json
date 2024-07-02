@@ -1,4 +1,5 @@
 {
+	"description": "A project that does something awesome",
 	"name": "fcc-learn-npm-package-json",
 	"author": "sidan wei",
 	"dependencies": {
@@ -12,4 +13,5 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
+	
 }
